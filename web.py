@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-  return 'hello_world'
+  return 'Tendencias 2021'
